@@ -1,0 +1,10 @@
+body{
+    overflow-x: hidden;
+ }
+
+:root,:host {
+    --first-color: rgb(32, 59, 114);
+    --second-color:rgb(32, 59, 114);
+    --third-color:rgb(219, 230, 253);
+    --quarter-color:rgb(178, 171, 140);
+}
